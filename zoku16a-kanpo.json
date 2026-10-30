@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/kanpo",
  "yomi": "かんぽうしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集（残欠）",
+  "era": "鎌倉中期",
+  "author": "未詳",
+  "desc": "巻第三（秋）だけが残る家集。承元から建長・文永にかけての年記を持つ詞書があり、寺社参詣の折の歌も目立つ。奥書は慈円の筆とするが、文永9年の詠を含むため慈円の作とは考えにくい。"
+ },
  "editions": [
   {
    "pid": "936505",
